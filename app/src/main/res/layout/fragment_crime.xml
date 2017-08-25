@@ -35,6 +35,7 @@
         android:layout_marginRight="16dp"
         tools:text="Crime occur date"
         tools:textAllCaps="false"
+        android:textAllCaps="false"
         />
 
     <CheckBox
